@@ -54,3 +54,9 @@ $ npm test
 ### License
 
   [MIT](LICENSE)
+
+---
+
+## Contributing
+
+Contributions, bug reports, and feature requests are welcome! Feel free to check the [issues page](https://github.com/forsigner/node-pngdefry/issues) or submit a Pull Request.
